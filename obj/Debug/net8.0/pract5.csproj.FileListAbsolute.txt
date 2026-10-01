@@ -1,0 +1,14 @@
+C:\Users\st310-10\Desktop\karamov\pract5\bin\Debug\net8.0\pract5.exe
+C:\Users\st310-10\Desktop\karamov\pract5\bin\Debug\net8.0\pract5.deps.json
+C:\Users\st310-10\Desktop\karamov\pract5\bin\Debug\net8.0\pract5.runtimeconfig.json
+C:\Users\st310-10\Desktop\karamov\pract5\bin\Debug\net8.0\pract5.dll
+C:\Users\st310-10\Desktop\karamov\pract5\bin\Debug\net8.0\pract5.pdb
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.AssemblyInfoInputs.cache
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.AssemblyInfo.cs
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.csproj.CoreCompileInputs.cache
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.dll
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\refint\pract5.dll
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.pdb
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\pract5.genruntimeconfig.cache
+C:\Users\st310-10\Desktop\karamov\pract5\obj\Debug\net8.0\ref\pract5.dll
